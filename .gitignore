@@ -146,6 +146,9 @@ venv.bak/
 
 # Ignore the entire data folder
 data/
+venv/
+*.log
+.ipynb_checkpoints/
 
 
 # Spyder project settings
